@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # FundFlow
-A smart finance tracker app built with Flutter and Firebase. Log expenses, monitor budgets, and analyze spending trends effortlessly. With real-time sync and secure data storage, FinanceNest empowers users to achieve financial goals with intuitive design and seamless cross-platform functionality.
+A flexible finance tracker app for household budgeting, built as a final exam project using Flutter and Firebase. Designed to log expenses, set budgets, and analyze spending trends effortlessly. With real-time sync and secure storage, it simplifies managing household finances across devices.
 =======
 # wallet_fam_jo
 
