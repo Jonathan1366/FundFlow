@@ -71,4 +71,4 @@ MIT License
 
 ## **📧 Contact & Support**  
 For any inquiries, feel free to reach out:  
-🔗 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+🔗 **LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/in/jonathanfarrel/)  
