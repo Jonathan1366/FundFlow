@@ -37,8 +37,6 @@ This project was developed as part of an **academic initiative** to explore **mo
 For more detailed screenshots and additional resources, please visit:  
 📂 **[Google Drive – Wallet CashFlow Screenshots & Documentation](https://drive.google.com/drive/folders/1LOlabhyPT8H8uWLIINJ4M77inCa9aBhE?usp=sharing)**  
 
-_(Make sure to replace `YOUR_GOOGLE_DRIVE_LINK_HERE` with your actual Google Drive link.)_  
-
 ---
 
 ## **🛠️ Tech Stack**  
