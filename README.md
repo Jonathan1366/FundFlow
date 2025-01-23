@@ -62,15 +62,6 @@ flutter run
 
 ---
 
-## **🔮 Future Enhancements**  
-🔹 **Multi-User Roles** – Expanding access beyond parents & children (e.g., relatives, financial advisors).  
-🔹 **Bank & E-Wallet Integration** – Syncing with financial services for automatic expense tracking.  
-🔹 **Predictive Budgeting** – AI-based forecasting to optimize monthly spending.  
-🔹 **Push Notifications** – Alert users about transaction updates & approval requests.  
-🔹 **Dark Mode & UI Enhancements** – For better user experience across devices.  
-
----
-
 ## **📜 License**  
 MIT License  
 
