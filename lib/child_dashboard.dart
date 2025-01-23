@@ -14,7 +14,7 @@ class _ChildDashboardState extends State<ChildDashboard> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Child Dashboard'),
-      ),
+      ), 
       body: Column(
         children: [
           Expanded(
